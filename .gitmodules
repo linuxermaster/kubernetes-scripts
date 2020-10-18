@@ -1,0 +1,3 @@
+[submodule "eldada/kubernetes-scripts"]
+	path = eldada/kubernetes-scripts
+	url = https://github.com/eldada/kubernetes-scripts.git
